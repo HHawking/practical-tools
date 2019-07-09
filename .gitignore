@@ -2,6 +2,7 @@
 *.class
 /target
 /test
+.idea
 
 # Log file
 *.log
